@@ -1,6 +1,7 @@
 # Movie Subtitle Search Engine
 
-![Movie Subtitle Search Engine Logo](https://your-website.com/movie-subtitle-search-engine-logo.png)
+![search_eng1](https://github.com/abdulrauf1290/movie_verse/assets/126774164/5817d17f-27fc-4dc0-9e7f-b37516f8a196)
+![search2](https://github.com/abdulrauf1290/movie_verse/assets/126774164/cb27a1de-0664-4ba0-9c85-ba24b7a0370b)
 
 ## Introduction
 
